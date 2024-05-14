@@ -1,4 +1,4 @@
 - 情報科学を専攻している大学院生です。
 - 趣味でプログラムとテックノートを書きます。
 - 絶滅危惧種の愛煙家です。
-- SHOW MORE: https://xenexe.info/about-me/
+- [SHOW MORE](https://xenexe.info/about-me/)
